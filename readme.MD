@@ -9,4 +9,3 @@
 # Karam and oil
 # Egg DOSA
 # Dosa Batter 
-# 1 egg , karam oil
