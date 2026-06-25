@@ -8,4 +8,5 @@
 # Dosa Batter
 # Karam and oil
 # Egg DOSA
-# Dosa Batter 
+# Dosa Batter
+# 2 eggs, karam, and oil
